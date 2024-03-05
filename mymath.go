@@ -11,3 +11,6 @@ func Cos(x float64) float64 {
 func Floor(x float64) float64 {
 	return math.Floor(x)
 }
+func Ceil(x float64) float64 {
+	return math.Ceil(x)
+}
