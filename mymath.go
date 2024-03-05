@@ -2,9 +2,9 @@ package mymath
 
 import "math"
 
-func sin(x float64) float64 {
+func Sin(x float64) float64 {
 	return math.Sin(x)
 }
-func cos(x float64) float64 {
+func Cos(x float64) float64 {
 	return math.Cos(x)
 }
